@@ -56,7 +56,9 @@ print("\nMean Squared Error:", mse)
 print("\nSample Predictions:\n", Y_pred[:5])
 ```
 ## Output:
+
 ![image](https://github.com/user-attachments/assets/b52559c0-a020-4747-bcbc-722c35941532)
+
 ![image](https://github.com/user-attachments/assets/a954674f-401a-489d-9e15-57f61788f31f)
 
 ## Result:
