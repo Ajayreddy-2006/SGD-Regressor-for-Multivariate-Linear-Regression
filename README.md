@@ -25,6 +25,8 @@ RegisterNumber: 212223230007
 
 ```
 ```
+print("Reg:212223230007")
+print("Name:T.Ajay")
 import numpy as np
 import pandas as pd
 from sklearn.datasets import fetch_california_housing
