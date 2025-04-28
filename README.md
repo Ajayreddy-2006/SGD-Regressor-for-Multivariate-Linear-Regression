@@ -28,8 +28,8 @@ Step 6: Stop the program.
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: Sabeeha Shaik
-RegisterNumber:  212223230176
+Developed by: T Ajay
+RegisterNumber:  212223230007
 */
 ```
 ```
@@ -70,8 +70,8 @@ print("Mean Squared Error:",mse)
 print("\nPredictions:\n",Y_pred[:5])
 
 
-print("Sabeeha Shaik")
-print(212223230176)
+print("T Ajay")
+print(212223230007)
 ```
 
 
